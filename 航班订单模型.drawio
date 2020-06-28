@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2020-06-28T03:12:34.146Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="fgdbpjAx33wNGdIgY_LM" version="13.3.5" type="github"><diagram id="fmicv64Waa0_CLUMgpLy" name="Page-1">7VrbUuM4EP2aVLEPULYUO8kjuTA7W8BSA1M7+yhsJdZiWylZgYSvX8mSHduSMwlJgBl4wmpLrcs5fdTt0IGjZPmFoXl0RUMcd4ATLjtw3AHAhZ4r/kjLSlkGfW2YMRLqTmvDLXnG2uho64KEOKt15JTGnMzrxoCmKQ54zYYYo0/1blMa12edoxk2DLcBik3rPyTkkbL2QW9t/xOTWVTM7PoD9SZBRWe9kyxCIX2qmOCkA0eMUq6ekuUIx/LwinNR4y5a3pYLYzjl2wz4O8mi2+/u6L+Jf93/a/g49MjVqdtVbh5RvNA71qvlq+IIcChORDfFXISvvuEYcULTyfrNcEpTruFzxd6GEU9i+SwecRqeSyhEc/ItQamgwjDjiHHDquaWE7ZuUpsyumAB3rAzqMmC2AzzTSfgllgIEmOaYM5WYuDTGm3X0RBGVaQLI8sP47G+YqRpNysdlnPcUCL2AhwdIr6n/egA8Xyv7kLtVI+q4tt05NYd9bsNR+ooDEfiobLxtSmnzy5U8gwqjbFAjmfCnUBaHpFYDLfy6xLdC+GosQbFZJaK50BAj5kwPGLGiYjMc/0iIWGYU4/hjDyj+9yfI9pzucV8096w441LXkkHeFnDScuGHrwO1irjNgSOSRvt3jlzeg6s4XEK9uNL0YVOpxk+CoIAvg8xoKn0gZeE/5CDzhzX1+1/JcJnXWeg2+OlhjxvrCqNG8yIOA9JHGVLxdn8qDaUL+AV7bWvvFU4y9d2QeRJ5u0DSpS3rUT131aiAKwrS7fnvEyiYMMRbDo6skQB87a7ESuPUCZSjN9CllQIt8rSqdAl6NZ1yX33smReLEeWJSVA9hSllKWaJCkZaVekl6qPWNZxtEdpyhbi00Ko19KeUmsK7Rm8UHu8hiPYdHRs7fENFpMsW+Awr0rYbyI/3s/kx/Udv4bDnlnRyjrgeGIEX71gEmJ0R682iY/X6++cDx1QSsDg15AS368rQFl57SolfdAo2eDrSgnsvSkHX3yXveTmPCBPob8lT93e2xIVNCp52OTX1vl2wxF4ZaK6JlHvSPCAzW8A2RNJYpSnXUFE4vASrehCHqtIwoKHojWMKCPPgrOoYGmeo2kGQ6fW41aO1CxidJGGONSDqqzvFm29FlXyMfpQfu4DxV2KbwrSOaXpEmW8WErxfU++DVEW5fM5tju79eI1aN16lRqlVAF1laS+jaTAaedjjQA7o91vQft6kdxjdnLLGUlnf3RkJgSXSKYkjAT4ZBpTxKvmEU2nhCW5WqmxBl+KI43xlJeIjWhM5f2Wqvx9KhLnhimbo0Cs4TIfNe5aFLCZTnE6t+RSjHLEq7mVYKGmwVbY7iQ7BcJbAtzMaw+GLzTrsIs4nxc4oxhlZgn9GdU7RnWzRnHePKihWbZcowR/iICELdXMewlIy9csEYU4nVkE8zMUdwzFRrHQ7VvQ9jYlgQeH2yK/hGVchWN5ecoD+zAR2vIjzIYAtUHW/Ap9MMRA64X5GZ37RafXDE8b1gNbeDaL/sPdlOZF2Zb3qt9FFwyPEcecJPhEPtyJh2qv/DdTFG/sM16wPE0+ERUcFrpfe0cEPdIAf02vSIwzW5dzwmKS4k1LFF3mlHHraLXADT0+hAiBnUXISszj1WWOwUwN2acO7atDZXJXfArsvnnG7roG3F/P785HNLTFuUwVLOYR4SuLWYDJK90/QHC7jh3/91IDAPOjixb1z+DeN7i73Xpw+4NtawD3aHAPfpplfICgBC3/ELNj3t/fHSXRXP/HpvpMvv6/Vzj5Hw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-28T03:22:12.463Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="pWgRhLpQEaVB01ZMCoNo" version="13.3.5" type="github">
+  <diagram id="fmicv64Waa0_CLUMgpLy" name="Page-1">
+    <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OmshSU1CjE6N8JBvB5iM-14" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;startArrow=ERmany;" parent="1" source="OmshSU1CjE6N8JBvB5iM-3" target="OmshSU1CjE6N8JBvB5iM-11" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="650" y="565" as="sourcePoint" />
+            <mxPoint x="610" y="845" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OmshSU1CjE6N8JBvB5iM-15" value="Departs/Arrive at" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="OmshSU1CjE6N8JBvB5iM-14" vertex="1" connectable="0">
+          <mxGeometry x="0.0703" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OmshSU1CjE6N8JBvB5iM-23" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;startArrow=ERone;exitX=1.016;exitY=0.409;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startFill=0;" parent="1" source="OmshSU1CjE6N8JBvB5iM-5" target="OmshSU1CjE6N8JBvB5iM-18" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="230" y="470" as="sourcePoint" />
+            <mxPoint x="330" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OmshSU1CjE6N8JBvB5iM-24" value="Purchases" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="OmshSU1CjE6N8JBvB5iM-23" vertex="1" connectable="0">
+          <mxGeometry x="-0.0313" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OmshSU1CjE6N8JBvB5iM-25" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERone;startArrow=ERmany;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endFill=0;" parent="1" source="OmshSU1CjE6N8JBvB5iM-18" target="OmshSU1CjE6N8JBvB5iM-3" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="470" y="490" as="sourcePoint" />
+            <mxPoint x="570" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OmshSU1CjE6N8JBvB5iM-26" value="issued for" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="OmshSU1CjE6N8JBvB5iM-25" vertex="1" connectable="0">
+          <mxGeometry x="-0.1606" y="2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OmshSU1CjE6N8JBvB5iM-34" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;exitX=1;exitY=0.578;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="OmshSU1CjE6N8JBvB5iM-29" target="OmshSU1CjE6N8JBvB5iM-3" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="660" y="650" as="sourcePoint" />
+            <mxPoint x="820" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OmshSU1CjE6N8JBvB5iM-37" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="OmshSU1CjE6N8JBvB5iM-36" target="OmshSU1CjE6N8JBvB5iM-17" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="210" y="330" as="sourcePoint" />
+            <mxPoint x="310" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OmshSU1CjE6N8JBvB5iM-17" value="Ticket" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="330" y="310" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OmshSU1CjE6N8JBvB5iM-18" value="TicketNumber(String)&#xa;price(float)&#xa;ConfirmationNumber" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="OmshSU1CjE6N8JBvB5iM-17" vertex="1">
+          <mxGeometry y="30" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OmshSU1CjE6N8JBvB5iM-35" value="Flight Class" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="70" y="300" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OmshSU1CjE6N8JBvB5iM-36" value="Name" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="OmshSU1CjE6N8JBvB5iM-35" vertex="1">
+          <mxGeometry y="30" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OmshSU1CjE6N8JBvB5iM-4" value="Passenger" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="60" y="480" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OmshSU1CjE6N8JBvB5iM-5" value="FirstName&#xa;LastName" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="OmshSU1CjE6N8JBvB5iM-4" vertex="1">
+          <mxGeometry y="30" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OmshSU1CjE6N8JBvB5iM-2" value="Flight" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="560" y="430" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="OmshSU1CjE6N8JBvB5iM-3" value="Number(String)&#xa;DepartureDatetime(DateTime)&#xa;ArrivalDatetime(DateTime)&#xa;Duration(integer)&#xa;DistanceInMiles(integer)&#xa;Airline(String)&#xa;DepartureAirport(integer)&#xa;ArrivalAirport(integer)&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="OmshSU1CjE6N8JBvB5iM-2" vertex="1">
+          <mxGeometry y="30" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OmshSU1CjE6N8JBvB5iM-10" value="Airport" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="290" y="540" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OmshSU1CjE6N8JBvB5iM-11" value="IATACode(String)&#xa;Name(String)&#xa;City(String)&#xa;State(String)" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="OmshSU1CjE6N8JBvB5iM-10" vertex="1">
+          <mxGeometry y="30" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OmshSU1CjE6N8JBvB5iM-28" value="Airline" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="440" y="690" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="OmshSU1CjE6N8JBvB5iM-29" value="Number(String)" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="OmshSU1CjE6N8JBvB5iM-28" vertex="1">
+          <mxGeometry y="30" width="150" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
